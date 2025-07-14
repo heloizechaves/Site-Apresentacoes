@@ -1,0 +1,61 @@
+body {
+  align-items: center;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #dadcf8;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+ul{
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+img {
+  width: 600px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto 20px auto
+}
+
+a {
+  display: inline-block;
+  font-weight: bold;
+  color: #797878;
+  text-decoration: none;
+  padding: 10px 15px;
+  border: 1px solid #797878;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  margin-bottom: 20px;
+
+}
+
+a[href="Heloize.html"]:hover {
+  background-color: #dd60c2;
+  color: #fff;
+}
+
+
+a[href="Larissa.html"]:hover {
+  background-color: #5dcaa9;
+  color: #fff;
+}
+a[href="Iaritsa.html"]:hover {
+  background-color: #b58ee9;
+  color: #fff;
+}
