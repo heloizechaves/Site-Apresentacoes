@@ -1,6 +1,6 @@
 body {
   font-family: "Times New Roman", Times, serif;
-  background: linear-gradient(to bottom, #cff0e6, #f4f4f4);
+  background: linear-gradient(to bottom, #dec7fd, #f4f4f4);
   color: #333;
   margin: 0;
   padding: 0;
@@ -50,17 +50,17 @@ p {
 a {
   display: inline-block;
   font-weight: bold;
-  color: #68ceaf;
+  color: #c59afd;
   text-decoration: none;
   padding: 10px 15px;
-  border: 1px solid #68ceaf;
+  border: 1px solid #c59afd;
   border-radius: 6px;
   transition: all 0.3s ease;
   margin-bottom: 20px;
 }
 
 a:hover {
-  background-color: #51bb9b;
+  background-color: #b58ee9;
   color: #fff;
 }
 
